@@ -1,1 +1,1 @@
-# -php-debugging-
+# php-debugging
